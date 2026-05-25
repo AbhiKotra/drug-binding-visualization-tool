@@ -1,6 +1,6 @@
 # Drug–Protein Binding Visualization Tool
 
-**Live Demo:** [drug-binding-visualizer.onrender.com](https://drug-binding-visualizer.onrender.com)
+**Live Demo:** [drug-binding-visualizer.onrender.com]([https://drug-binding-visualizer.onrender.com](https://drug-binding-visualization-tool-website-fnbn.onrender.com))
 
 A web-based computational tool for analyzing drug–protein interactions. Upload any two PDB files — an AlphaFold predicted structure and an experimental drug-bound structure — and the tool compares them, identifies the binding pocket, and renders an interactive 3D model in the browser.
 
